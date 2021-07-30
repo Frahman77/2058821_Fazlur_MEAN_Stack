@@ -1,0 +1,42 @@
+h1 {
+    background-color: rgb(0, 255, 76);
+    font: size 300px;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(188, 143, 145);
+    font: size 200px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:Left;
+}
+h3 {
+    background-color:rgb(202, 20, 117);
+    font: size 100px;
+    text-align: center;
+}
+p {
+    background-color:rgb(143, 179, 60);
+    font: size 60px;
+    
+}
+div {
+    
+    font: size 50px;
+    text-align: center;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #3d1abc;
+    color: white;
+    font-size: 30px;
+  }
+
+  .footer{
+    padding: 60px;
+    text-align: center;
+    background: #4e3313;
+    color: white;
+    font-size: 30px;
+  }
